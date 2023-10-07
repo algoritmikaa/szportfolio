@@ -1,0 +1,45 @@
+body {
+    font-family: sans-serif;
+}nav a {
+    margin: 10px;
+    background-color: red;
+    color: royalblue;
+    text-decoration: none;
+    padding: 7px;
+    border-radius: 10px;
+}
+
+header {
+    margin-bottom: 20px;
+    background-color: slateblue;
+    padding: 25px;
+}
+
+header a {
+    color: red;
+    font-size: 30px;
+    text-decoration: none;
+}
+
+h1 {
+    font-size: 45px;
+    text-align: center;
+    text-shadow: 7px 7px 7px grey;
+    color: green;
+}
+
+main p {
+    margin-top: 20px;
+    font-size: 25px;
+    color: grey;
+}
+
+footer {
+    background-color: aquamarine;
+    padding: 20px;
+}
+
+main li {
+  height: 50px;  
+}
+
